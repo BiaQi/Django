@@ -2,6 +2,6 @@
 
 Hi, my name is Wojtek.
 
-In this repository i want to show u my project of website, made with Django, framework of Python.
+In this repository I want to show u my project of website, made with Django, framework of Python.
 
 Have a nice day!
